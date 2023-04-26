@@ -8,14 +8,3 @@ h5,
 h6 {
   font-family: "Roboto", sans-serif;
 }
-
-.perfil {
-  display: flex;
-  object-fit: cover;
-  object-position: top;
-  width: 10em;
-  height: 10em;
-  border-radius: 50%;
-  margin: auto;
-  padding: 0.5em ;
-}
